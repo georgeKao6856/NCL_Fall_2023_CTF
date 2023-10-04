@@ -19,45 +19,45 @@
     
     **Ans: 47**
     
-    ![Untitled](../Screentshot/Untitled%204.png)
+    ![Untitled](../Screenshot/Untitled%204.png)
     
-    ![Untitled](../Screentshot/Untitled%205.png)
+    ![Untitled](../Screenshot/Untitled%205.png)
     
 2. How many requests yielded a 200 status? (nginx)
     
     **Ans: 19**
     
-    ![Untitled](../Screentshot/Untitled%206.png)
+    ![Untitled](../Screenshot/Untitled%206.png)
     
 3. How many requests yielded a 400 status? (nginx)
     
     **Ans:38**
     
-    ![Untitled](../Screentshot/Untitled%207.png)
+    ![Untitled](../Screenshot/Untitled%207.png)
     
 4. What IP address rang at the doorbell? (nginx)
     
     **Ans: 186.64.69.141**
     
-    ![Untitled](../Screentshot/Untitled%208.png)
+    ![Untitled](../Screenshot/Untitled%208.png)
     
 5. What version of the Googlebot visited the website? (nginx)
     
     **Ans: 2.1**
     
-    ![Untitled](../Screentshot/Untitled%209.png)
+    ![Untitled](../Screenshot/Untitled%209.png)
     
 6. Which IP address attempted to exploit the shellshock vulnerability? (nginx)
     
     **Ans: 61.161.130.241**
     
-    ![Untitled](../Screentshot/Untitled%2010.png)
+    ![Untitled](../Screenshot/Untitled%2010.png)
     
 7. What was the most popular version of Firefox used for browsing the website? (nginx)
     
     **Ans: 31.0**
     
-    ![Untitled](../Screentshot/Untitled%2011.png)
+    ![Untitled](../Screenshot/Untitled%2011.png)
     
 8. What is the most common HTTP method used? (nginx)
     
@@ -71,4 +71,4 @@
     
     **Ans: 6**
     
-    ![Untitled](../Screentshot/Untitled%2012.png)
+    ![Untitled](../Screenshot/Untitled%2012.png)
