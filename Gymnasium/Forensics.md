@@ -15,20 +15,20 @@
 
 1. This file initially looks like something green, what's the file format of this green file?
     
-    **Ans:** **PNG**
+    **Ans: PNG**
     
-    ![Untitled](../../Screenshot/Untitled.png)
+    ![Untitled](https://github.com/georgeKao6856/NCL_Fall_2023_CTF/blob/master/Screenshot/Untitled.png)
     
 2. How many files can be extracted from the binary blob?
     
     **Ans: 6**
     
-    ![Untitled](../../Screenshot/Untitled%201.png)
+    ![Untitled](../Screenshot/Untitled%201.png)
     
 3. What is the hidden flag in the file?
     
     **Ans: SKY-RWCI-4291**
     
-    ![Untitled](../../Screenshot/Untitled%202.png)
+    ![Untitled](../Screenshot/Untitled%202.png)
     
-    ![Untitled](../../Screenshot/Untitled%203.png)
+    ![Untitled](../Screenshot/Untitled%203.png)

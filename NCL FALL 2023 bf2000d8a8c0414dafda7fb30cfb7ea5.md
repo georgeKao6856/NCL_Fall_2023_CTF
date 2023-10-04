@@ -73,23 +73,23 @@ Created: September 5, 2023 10:34 AM
 
 1. This file initially looks like something green, what's the file format of this green file?
     
-    **Ans:** **PNG**
+    **Ans: PNG**
     
-    ![Untitled](PNG/Untitled.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled.png)
     
 2. How many files can be extracted from the binary blob?
     
     **Ans: 6**
     
-    ![Untitled](PNG/Untitled%201.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%201.png)
     
 3. What is the hidden flag in the file?
     
     **Ans: SKY-RWCI-4291**
     
-    ![Untitled](PNG/Untitled%202.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%202.png)
     
-    ![Untitled](PNG/Untitled%203.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%203.png)
     
 
 ## Log Analysis
@@ -113,45 +113,45 @@ Created: September 5, 2023 10:34 AM
     
     **Ans: 47**
     
-    ![Untitled](PNG/Untitled%204.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%204.png)
     
-    ![Untitled](PNG/Untitled%205.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%205.png)
     
 2. How many requests yielded a 200 status? (nginx)
     
     **Ans: 19**
     
-    ![Untitled](PNG/Untitled%206.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%206.png)
     
 3. How many requests yielded a 400 status? (nginx)
     
     **Ans:38**
     
-    ![Untitled](PNG/Untitled%207.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%207.png)
     
 4. What IP address rang at the doorbell? (nginx)
     
     **Ans: 186.64.69.141**
     
-    ![Untitled](PNG/Untitled%208.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%208.png)
     
 5. What version of the Googlebot visited the website? (nginx)
     
     **Ans: 2.1**
     
-    ![Untitled](PNG/Untitled%209.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%209.png)
     
 6. Which IP address attempted to exploit the shellshock vulnerability? (nginx)
     
     **Ans: 61.161.130.241**
     
-    ![Untitled](PNG/Untitled%2010.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2010.png)
     
 7. What was the most popular version of Firefox used for browsing the website? (nginx)
     
     **Ans: 31.0**
     
-    ![Untitled](PNG/Untitled%2011.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2011.png)
     
 8. What is the most common HTTP method used? (nginx)
     
@@ -165,7 +165,7 @@ Created: September 5, 2023 10:34 AM
     
     **Ans: 6**
     
-    ![Untitled](PNG/Untitled%2012.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2012.png)
     
 
 ## Wireless Access Exploitation
@@ -188,37 +188,37 @@ Created: September 5, 2023 10:34 AM
     
     Ans:14337
     
-    ![Untitled](PNG/Untitled%2013.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2013.png)
     
 2. What is the key size of the wireless network data encryption method in bits?
     
     Ans: 64
     
-    ![Untitled](PNG/Untitled%2014.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2014.png)
     
-    ![Untitled](PNG/Untitled%2015.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2015.png)
     
 3. What is the IV for the first packet in the capture in hexadecimal representation?
     
     Ans: 003a33
     
-    ![Untitled](PNG/Untitled%2016.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2016.png)
     
 4. What is the WEP key?
     
     Ans: A4:81:53:B4:CF
     
-    ![Untitled](PNG/Untitled%2017.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2017.png)
     
 5. What is the TCP checksum of the first packet in the capture (in hex)?
     
     Ans: 897b
     
-    ![Untitled](PNG/Untitled%2018.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2018.png)
     
-    ![Untitled](PNG/Untitled%2019.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2019.png)
     
-    ![Untitled](PNG/Untitled%2020.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2020.png)
     
 
 (Part 2)
@@ -227,19 +227,19 @@ Created: September 5, 2023 10:34 AM
     
     Ans: 24592
     
-    ![Untitled](PNG/Untitled%2021.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2021.png)
     
 2. What is the key size of the wireless network data encryption method in bits?
     
     Ans: 128
     
-    ![Untitled](PNG/Untitled%2022.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2022.png)
     
 3. What is the IV for the first packet in the capture (in hex)?
     
     Ans: 0994ff
     
-    ![Untitled](PNG/Untitled%2023.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2023.png)
     
 4. What is the WEP key?
     
@@ -249,7 +249,7 @@ Created: September 5, 2023 10:34 AM
     
     Ans: 08f0
     
-    ![Untitled](PNG/Untitled%2024.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2024.png)
     
 
 (Part 3)
@@ -258,21 +258,21 @@ Created: September 5, 2023 10:34 AM
     
     Ans: c0:4a:00:80:76:e4
     
-    ![Untitled](PNG/Untitled%2025.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2025.png)
     
 2. What is the ESSID of the wifi network?
     
     Ans: TP-LINK_8076E4
     
-    ![Untitled](PNG/Untitled%2026.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2026.png)
     
 3. What is the password for the wireless network?
     
     Ans: blueberrymuffin
     
-    ![Untitled](PNG/Untitled%2027.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2027.png)
     
-    ![Untitled](PNG/Untitled%2028.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2028.png)
     
 4. What is the IP address of the router?
     
@@ -282,7 +282,7 @@ Created: September 5, 2023 10:34 AM
     
     Ans: TP-LINK
     
-    ![Untitled](PNG/Untitled%2029.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2029.png)
     
 6. What is the model of the router?
 7. What firmware version is installed on the router?
@@ -292,17 +292,17 @@ Created: September 5, 2023 10:34 AM
     
     Ans: b8:e8:56:47:44:38
     
-    ![Untitled](PNG/Untitled%2030.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2030.png)
     
     [https://semfionetworks.com/wp-content/uploads/2021/04/wireshark_802.11_filters_-_reference_sheet.pdf](https://semfionetworks.com/wp-content/uploads/2021/04/wireshark_802.11_filters_-_reference_sheet.pdf)
     
-    ![Untitled](PNG/Untitled%2031.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2031.png)
     
 11. What is the MAC addess of the second victim of the deauth attack?
     
     Ans: 80:e6:50:0b:26:ba
     
-    ![Untitled](PNG/Untitled%2032.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2032.png)
     
 
 ## Scanning
@@ -343,23 +343,23 @@ Created: September 5, 2023 10:34 AM
     
     **Ans: eSeeeeeeem**
     
-    ![Untitled](PNG/Untitled%2033.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2033.png)
     
 2. What is an input to this program that will result in a correct validation?
     
     **Ans: mysupersecretpassword**
     
-    ![Untitled](PNG/Untitled%2034.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2034.png)
     
-    ![Untitled](PNG/Untitled%2035.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2035.png)
     
 3. What is an input to this program that will result in a correct validation?
     
     **Ans: NCLNNL11111**
     
-    ![Untitled](PNG/Untitled%2036.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2036.png)
     
-    ![Untitled](PNG/Untitled%2037.png)
+    ![Untitled](NCL%20FALL%202023%20bf2000d8a8c0414dafda7fb30cfb7ea5/Untitled%2037.png)
     
 4. What is the flag hidden in the program? (binary)
     
