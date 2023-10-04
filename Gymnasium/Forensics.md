@@ -15,9 +15,9 @@
 
 1. This file initially looks like something green, what's the file format of this green file?
     
-    **Ans: PNG**
+    **Ans:** **PNG**
     
-    ![Untitled](https://github.com/georgeKao6856/NCL_Fall_2023_CTF/blob/master/Screenshot/Untitled.png)
+    ![Untitled](../Screenshot/Untitled.png)
     
 2. How many files can be extracted from the binary blob?
     
