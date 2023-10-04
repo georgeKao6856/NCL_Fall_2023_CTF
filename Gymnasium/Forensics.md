@@ -17,18 +17,18 @@
     
     **Ans:** **PNG**
     
-    ![Untitled](../../Screentshot/Untitled.../Screentshot)
+    ![Untitled](../../Screentshot/Untitled.png)
     
 2. How many files can be extracted from the binary blob?
     
     **Ans: 6**
     
-    ![Untitled](../../Screentshot/Untitled%201.../Screentshot)
+    ![Untitled](../../Screentshot/Untitled%201.png)
     
 3. What is the hidden flag in the file?
     
     **Ans: SKY-RWCI-4291**
     
-    ![Untitled](../../Screentshot/Untitled%202.../Screentshot)
+    ![Untitled](../../Screentshot/Untitled%202.png)
     
-    ![Untitled](../../Screentshot/Untitled%203.../Screentshot)
+    ![Untitled](../../Screentshot/Untitled%203.png)
